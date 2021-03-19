@@ -1,0 +1,20 @@
+*{
+    font-family: arial;
+}
+#item{
+    display: flex;
+    justify-content: space-around;
+}
+#promo-div{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#purchase-div{
+margin-top: 50px;
+display: flex;
+justify-content: space-around;
+}
+button{
+    padding: 10px;
+}
